@@ -10,7 +10,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "electron-build": "ng build --prod",
-    "electron": "electron ."
+    "electron": "electron .",
+    "electron-build-and-run": "ng build --prod && electron ."
   },
   "private": true,
   "dependencies": {

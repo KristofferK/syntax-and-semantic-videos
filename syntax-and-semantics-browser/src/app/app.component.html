@@ -5,15 +5,36 @@
     </div>
   </div>
 
-  <div class="row">
-    <div class="col-12">
-      <button class="btn btn-info">Test</button>
+  <div *ngIf="channel != null" class="mt-4">
+    <div class="row">
+      <div class="col-lg-4">
+        <b>Playlists</b>
+        <div class="list-group mt-1">
+          <li *ngFor="let playlist of channel.playlists" (click)="setPlaylist(playlist)" class="list-group-item list-group-item-action">
+            {{playlist.playlistLink.title}}
+          </li>
+        </div>
+      </div>
+      
+      <div class="col-lg-4">
+        <b>{{playlist.playlistLink.title}}</b>
+        <div class="list-group mt-1">
+          <li *ngFor="let episode of playlist.episodes" (click)="setEpisode(episode)" class="list-group-item list-group-item-action">
+            {{episode.title}}
+          </li>
+        </div>
+      </div>
+      
+      <div class="col-lg-4">
+        <b>{{episode.title}}</b>
+        <button (click)="openInVLC(episode)" class="btn btn-info mt-1">Open in VLC</button>
+      </div>
     </div>
   </div>
 
-  <div class="row">
+  <div class="row mt-4">
     <div class="col-12">
-      <p class="text-faded">All videos are made by Hans Hüttel.</p>
+      <p class="text-muted">All videos are made by Hans Hüttel.</p>
     </div>
   </div>
 </div>
