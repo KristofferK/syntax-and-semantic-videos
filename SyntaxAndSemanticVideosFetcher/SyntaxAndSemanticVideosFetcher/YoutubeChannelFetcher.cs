@@ -44,7 +44,7 @@ namespace SyntaxAndSemanticVideosFetcher
                 .Select(e => new Episode()
                 {
                     Title = e.InBetween("data-video-title=\"", "\""),
-                    Url = e.InBetween("data-video-id=\"", "\"")
+                    Url = "https://www.youtube.com/watch?v=" + e.InBetween("data-video-id=\"", "\"")
                 });
         }
 
