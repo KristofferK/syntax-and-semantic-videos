@@ -3,7 +3,8 @@ import { ChannelService } from './channel.service';
 import { YoutubeChannel } from './models/youtube-channel';
 import { Playlist } from './models/playlist';
 import { Episode } from './models/episode';
-import { DomSanitizer, SafeResourceUrl, SafeUrl } from '@angular/platform-browser';
+import { } from 'electron';
+import * as cp from 'child_process';
 
 @Component({
   selector: 'app-root',
@@ -15,7 +16,7 @@ export class AppComponent implements OnInit {
   public playlist: Playlist;
   public episode: Episode;
 
-  constructor(private channelService: ChannelService, private sanitizer: DomSanitizer) {
+  constructor(private channelService: ChannelService) {
   }
 
   ngOnInit() {
@@ -35,6 +36,13 @@ export class AppComponent implements OnInit {
   }
 
   public openInVLC(episode: Episode) {
-    alert('Not yet supported');
+    let isElectron: boolean = window && window['process'] && window['process'].type;
+
+    if (isElectron) {
+      let childInstance: typeof cp = window['require']('child_process');
+      childInstance.exec(`"D:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe" ${this.episode.url} --gain=64`);
+    } else {
+      alert('Only allowed in Electron');
+    }
   }
 }
