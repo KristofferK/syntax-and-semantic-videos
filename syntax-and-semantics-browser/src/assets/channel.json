@@ -8,31 +8,45 @@
       "episodes":[
         {
           "title":"Kursusgang 1, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=8ZwBocjbCd8"
+          "id":"8ZwBocjbCd8",
+          "url":"https://www.youtube.com/watch?v=8ZwBocjbCd8",
+          "embedUrl":"https://www.youtube.com/embed/8ZwBocjbCd8"
         },
         {
           "title":"Kursusgang 1, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=_-sTbouAGtI"
+          "id":"_-sTbouAGtI",
+          "url":"https://www.youtube.com/watch?v=_-sTbouAGtI",
+          "embedUrl":"https://www.youtube.com/embed/_-sTbouAGtI"
         },
         {
           "title":"Kursusgang 1, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=9tmooHV37eo"
+          "id":"9tmooHV37eo",
+          "url":"https://www.youtube.com/watch?v=9tmooHV37eo",
+          "embedUrl":"https://www.youtube.com/embed/9tmooHV37eo"
         },
         {
           "title":"Kursusgang 1, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=VeM2Riy91SM"
+          "id":"VeM2Riy91SM",
+          "url":"https://www.youtube.com/watch?v=VeM2Riy91SM",
+          "embedUrl":"https://www.youtube.com/embed/VeM2Riy91SM"
         },
         {
           "title":"Kursusgang 1, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=uTqUjik4a3g"
+          "id":"uTqUjik4a3g",
+          "url":"https://www.youtube.com/watch?v=uTqUjik4a3g",
+          "embedUrl":"https://www.youtube.com/embed/uTqUjik4a3g"
         },
         {
           "title":"Kursusgang 1, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=wFkv-5hYmcw"
+          "id":"wFkv-5hYmcw",
+          "url":"https://www.youtube.com/watch?v=wFkv-5hYmcw",
+          "embedUrl":"https://www.youtube.com/embed/wFkv-5hYmcw"
         },
         {
           "title":"Kursusgang 1, GYSER",
-          "url":"https://www.youtube.com/watch?v=pZYcKh6lHCI"
+          "id":"pZYcKh6lHCI",
+          "url":"https://www.youtube.com/watch?v=pZYcKh6lHCI",
+          "embedUrl":"https://www.youtube.com/embed/pZYcKh6lHCI"
         }
       ]
     },
@@ -44,39 +58,57 @@
       "episodes":[
         {
           "title":"Kursusgang 2, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=CgHCUcQB_5Q"
+          "id":"CgHCUcQB_5Q",
+          "url":"https://www.youtube.com/watch?v=CgHCUcQB_5Q",
+          "embedUrl":"https://www.youtube.com/embed/CgHCUcQB_5Q"
         },
         {
           "title":"Kursusgang 2, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=ILnCSw_HjhA"
+          "id":"ILnCSw_HjhA",
+          "url":"https://www.youtube.com/watch?v=ILnCSw_HjhA",
+          "embedUrl":"https://www.youtube.com/embed/ILnCSw_HjhA"
         },
         {
           "title":"Kursusgang 2, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=rgAagdvabVg"
+          "id":"rgAagdvabVg",
+          "url":"https://www.youtube.com/watch?v=rgAagdvabVg",
+          "embedUrl":"https://www.youtube.com/embed/rgAagdvabVg"
         },
         {
           "title":"Kursusgang 2, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=g7ahBNiehCQ"
+          "id":"g7ahBNiehCQ",
+          "url":"https://www.youtube.com/watch?v=g7ahBNiehCQ",
+          "embedUrl":"https://www.youtube.com/embed/g7ahBNiehCQ"
         },
         {
           "title":"Kursusgang 2, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=zv4MIpA9_Qw"
+          "id":"zv4MIpA9_Qw",
+          "url":"https://www.youtube.com/watch?v=zv4MIpA9_Qw",
+          "embedUrl":"https://www.youtube.com/embed/zv4MIpA9_Qw"
         },
         {
           "title":"Kursusgang 2, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=gW2BRdnYzdQ"
+          "id":"gW2BRdnYzdQ",
+          "url":"https://www.youtube.com/watch?v=gW2BRdnYzdQ",
+          "embedUrl":"https://www.youtube.com/embed/gW2BRdnYzdQ"
         },
         {
           "title":"Kursusgang 2, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=_D6p66A2Pa8"
+          "id":"_D6p66A2Pa8",
+          "url":"https://www.youtube.com/watch?v=_D6p66A2Pa8",
+          "embedUrl":"https://www.youtube.com/embed/_D6p66A2Pa8"
         },
         {
           "title":"Kursusgang 2, afsnit 8",
-          "url":"https://www.youtube.com/watch?v=V4A47qnd1bg"
+          "id":"V4A47qnd1bg",
+          "url":"https://www.youtube.com/watch?v=V4A47qnd1bg",
+          "embedUrl":"https://www.youtube.com/embed/V4A47qnd1bg"
         },
         {
           "title":"Kursusgang 2, GYSER",
-          "url":"https://www.youtube.com/watch?v=bfwXBbTQUrs"
+          "id":"bfwXBbTQUrs",
+          "url":"https://www.youtube.com/watch?v=bfwXBbTQUrs",
+          "embedUrl":"https://www.youtube.com/embed/bfwXBbTQUrs"
         }
       ]
     },
@@ -88,35 +120,51 @@
       "episodes":[
         {
           "title":"Kursusgang 3, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=q7AoT2eH2eA"
+          "id":"q7AoT2eH2eA",
+          "url":"https://www.youtube.com/watch?v=q7AoT2eH2eA",
+          "embedUrl":"https://www.youtube.com/embed/q7AoT2eH2eA"
         },
         {
           "title":"Kursusgang 3, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=-9YZUOjUavY"
+          "id":"-9YZUOjUavY",
+          "url":"https://www.youtube.com/watch?v=-9YZUOjUavY",
+          "embedUrl":"https://www.youtube.com/embed/-9YZUOjUavY"
         },
         {
           "title":"Kursusgang 3, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=utch1Cn1NhY"
+          "id":"utch1Cn1NhY",
+          "url":"https://www.youtube.com/watch?v=utch1Cn1NhY",
+          "embedUrl":"https://www.youtube.com/embed/utch1Cn1NhY"
         },
         {
           "title":"Kursusgang 3, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=LDFmBUVJCuw"
+          "id":"LDFmBUVJCuw",
+          "url":"https://www.youtube.com/watch?v=LDFmBUVJCuw",
+          "embedUrl":"https://www.youtube.com/embed/LDFmBUVJCuw"
         },
         {
           "title":"Kursusgang 3, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=ybJfqxzasVs"
+          "id":"ybJfqxzasVs",
+          "url":"https://www.youtube.com/watch?v=ybJfqxzasVs",
+          "embedUrl":"https://www.youtube.com/embed/ybJfqxzasVs"
         },
         {
           "title":"Kursusgang 3, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=ysxIJfVpHys"
+          "id":"ysxIJfVpHys",
+          "url":"https://www.youtube.com/watch?v=ysxIJfVpHys",
+          "embedUrl":"https://www.youtube.com/embed/ysxIJfVpHys"
         },
         {
           "title":"Kursusgang 3, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=XrnWjWLUyyc"
+          "id":"XrnWjWLUyyc",
+          "url":"https://www.youtube.com/watch?v=XrnWjWLUyyc",
+          "embedUrl":"https://www.youtube.com/embed/XrnWjWLUyyc"
         },
         {
           "title":"Kursusgang 3, GYSER",
-          "url":"https://www.youtube.com/watch?v=NLJ7TB9JzeM"
+          "id":"NLJ7TB9JzeM",
+          "url":"https://www.youtube.com/watch?v=NLJ7TB9JzeM",
+          "embedUrl":"https://www.youtube.com/embed/NLJ7TB9JzeM"
         }
       ]
     },
@@ -128,39 +176,57 @@
       "episodes":[
         {
           "title":"Kursusgang 4, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=TajmWeq_Gpc"
+          "id":"TajmWeq_Gpc",
+          "url":"https://www.youtube.com/watch?v=TajmWeq_Gpc",
+          "embedUrl":"https://www.youtube.com/embed/TajmWeq_Gpc"
         },
         {
           "title":"Kursusgang 4, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=DtdC3uw0JTM"
+          "id":"DtdC3uw0JTM",
+          "url":"https://www.youtube.com/watch?v=DtdC3uw0JTM",
+          "embedUrl":"https://www.youtube.com/embed/DtdC3uw0JTM"
         },
         {
           "title":"Kursusgang 4, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=X47nGPiptPw"
+          "id":"X47nGPiptPw",
+          "url":"https://www.youtube.com/watch?v=X47nGPiptPw",
+          "embedUrl":"https://www.youtube.com/embed/X47nGPiptPw"
         },
         {
           "title":"Kursusgang 4, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=FJq3NkqyYac"
+          "id":"FJq3NkqyYac",
+          "url":"https://www.youtube.com/watch?v=FJq3NkqyYac",
+          "embedUrl":"https://www.youtube.com/embed/FJq3NkqyYac"
         },
         {
           "title":"Kursusgang 4, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=i8JPnM3rFrM"
+          "id":"i8JPnM3rFrM",
+          "url":"https://www.youtube.com/watch?v=i8JPnM3rFrM",
+          "embedUrl":"https://www.youtube.com/embed/i8JPnM3rFrM"
         },
         {
           "title":"Kursusgang 4, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=VC3uGfcO-MM"
+          "id":"VC3uGfcO-MM",
+          "url":"https://www.youtube.com/watch?v=VC3uGfcO-MM",
+          "embedUrl":"https://www.youtube.com/embed/VC3uGfcO-MM"
         },
         {
           "title":"Kursusgang 4, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=XEd4Lk7XcrM"
+          "id":"XEd4Lk7XcrM",
+          "url":"https://www.youtube.com/watch?v=XEd4Lk7XcrM",
+          "embedUrl":"https://www.youtube.com/embed/XEd4Lk7XcrM"
         },
         {
           "title":"Kursusgang 4, afsnit 8",
-          "url":"https://www.youtube.com/watch?v=2lVSAiaJl-M"
+          "id":"2lVSAiaJl-M",
+          "url":"https://www.youtube.com/watch?v=2lVSAiaJl-M",
+          "embedUrl":"https://www.youtube.com/embed/2lVSAiaJl-M"
         },
         {
           "title":"Kursusgang 4, GYSER",
-          "url":"https://www.youtube.com/watch?v=4jnzOFkzIJc"
+          "id":"4jnzOFkzIJc",
+          "url":"https://www.youtube.com/watch?v=4jnzOFkzIJc",
+          "embedUrl":"https://www.youtube.com/embed/4jnzOFkzIJc"
         }
       ]
     },
@@ -172,35 +238,51 @@
       "episodes":[
         {
           "title":"Kursusgang 5, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=LGtUJMoM50w"
+          "id":"LGtUJMoM50w",
+          "url":"https://www.youtube.com/watch?v=LGtUJMoM50w",
+          "embedUrl":"https://www.youtube.com/embed/LGtUJMoM50w"
         },
         {
           "title":"Kursusgang 5, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=yn8G6R5RsCg"
+          "id":"yn8G6R5RsCg",
+          "url":"https://www.youtube.com/watch?v=yn8G6R5RsCg",
+          "embedUrl":"https://www.youtube.com/embed/yn8G6R5RsCg"
         },
         {
           "title":"Kursusgang 5, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=boYrD8dGSdA"
+          "id":"boYrD8dGSdA",
+          "url":"https://www.youtube.com/watch?v=boYrD8dGSdA",
+          "embedUrl":"https://www.youtube.com/embed/boYrD8dGSdA"
         },
         {
           "title":"Kursusgang 5, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=LLohgI9aRzc"
+          "id":"LLohgI9aRzc",
+          "url":"https://www.youtube.com/watch?v=LLohgI9aRzc",
+          "embedUrl":"https://www.youtube.com/embed/LLohgI9aRzc"
         },
         {
           "title":"Kursusgang 5, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=BYEnd3K0dPI"
+          "id":"BYEnd3K0dPI",
+          "url":"https://www.youtube.com/watch?v=BYEnd3K0dPI",
+          "embedUrl":"https://www.youtube.com/embed/BYEnd3K0dPI"
         },
         {
           "title":"Kursusgang 5, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=gVwoj76fXVo"
+          "id":"gVwoj76fXVo",
+          "url":"https://www.youtube.com/watch?v=gVwoj76fXVo",
+          "embedUrl":"https://www.youtube.com/embed/gVwoj76fXVo"
         },
         {
           "title":"Kursusgang 5, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=3DKSka3qSyo"
+          "id":"3DKSka3qSyo",
+          "url":"https://www.youtube.com/watch?v=3DKSka3qSyo",
+          "embedUrl":"https://www.youtube.com/embed/3DKSka3qSyo"
         },
         {
           "title":"Kursusgang 5, GYSER",
-          "url":"https://www.youtube.com/watch?v=osTwHv6ZKhE"
+          "id":"osTwHv6ZKhE",
+          "url":"https://www.youtube.com/watch?v=osTwHv6ZKhE",
+          "embedUrl":"https://www.youtube.com/embed/osTwHv6ZKhE"
         }
       ]
     },
@@ -212,31 +294,45 @@
       "episodes":[
         {
           "title":"Kursusgang 6, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=3bMKJudTnxc"
+          "id":"3bMKJudTnxc",
+          "url":"https://www.youtube.com/watch?v=3bMKJudTnxc",
+          "embedUrl":"https://www.youtube.com/embed/3bMKJudTnxc"
         },
         {
           "title":"Kursusgang 6, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=KUZwifJbGxE"
+          "id":"KUZwifJbGxE",
+          "url":"https://www.youtube.com/watch?v=KUZwifJbGxE",
+          "embedUrl":"https://www.youtube.com/embed/KUZwifJbGxE"
         },
         {
           "title":"Kursusgang 6, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=fc1eSfsnxG0"
+          "id":"fc1eSfsnxG0",
+          "url":"https://www.youtube.com/watch?v=fc1eSfsnxG0",
+          "embedUrl":"https://www.youtube.com/embed/fc1eSfsnxG0"
         },
         {
           "title":"Kursusgang 6, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=eBgtVhYUf50"
+          "id":"eBgtVhYUf50",
+          "url":"https://www.youtube.com/watch?v=eBgtVhYUf50",
+          "embedUrl":"https://www.youtube.com/embed/eBgtVhYUf50"
         },
         {
           "title":"Kursusgang 6, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=nFaauSwpT8Y"
+          "id":"nFaauSwpT8Y",
+          "url":"https://www.youtube.com/watch?v=nFaauSwpT8Y",
+          "embedUrl":"https://www.youtube.com/embed/nFaauSwpT8Y"
         },
         {
           "title":"Kursusgang 6, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=XJbdeWeL2kc"
+          "id":"XJbdeWeL2kc",
+          "url":"https://www.youtube.com/watch?v=XJbdeWeL2kc",
+          "embedUrl":"https://www.youtube.com/embed/XJbdeWeL2kc"
         },
         {
           "title":"Kursusgang 6, GYSER",
-          "url":"https://www.youtube.com/watch?v=Klcbh5sZbU0"
+          "id":"Klcbh5sZbU0",
+          "url":"https://www.youtube.com/watch?v=Klcbh5sZbU0",
+          "embedUrl":"https://www.youtube.com/embed/Klcbh5sZbU0"
         }
       ]
     },
@@ -248,39 +344,57 @@
       "episodes":[
         {
           "title":"Kursusgang 7, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=j3uZWxlOSbE"
+          "id":"j3uZWxlOSbE",
+          "url":"https://www.youtube.com/watch?v=j3uZWxlOSbE",
+          "embedUrl":"https://www.youtube.com/embed/j3uZWxlOSbE"
         },
         {
           "title":"Kursusgang 7, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=aQGCCZCMbbY"
+          "id":"aQGCCZCMbbY",
+          "url":"https://www.youtube.com/watch?v=aQGCCZCMbbY",
+          "embedUrl":"https://www.youtube.com/embed/aQGCCZCMbbY"
         },
         {
           "title":"Kursusgang 7, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=8rTKtGERrSo"
+          "id":"8rTKtGERrSo",
+          "url":"https://www.youtube.com/watch?v=8rTKtGERrSo",
+          "embedUrl":"https://www.youtube.com/embed/8rTKtGERrSo"
         },
         {
           "title":"Kursusgang 7, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=KZttXiOGF04"
+          "id":"KZttXiOGF04",
+          "url":"https://www.youtube.com/watch?v=KZttXiOGF04",
+          "embedUrl":"https://www.youtube.com/embed/KZttXiOGF04"
         },
         {
           "title":"Kursusgang 7, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=-MLY4l_IR58"
+          "id":"-MLY4l_IR58",
+          "url":"https://www.youtube.com/watch?v=-MLY4l_IR58",
+          "embedUrl":"https://www.youtube.com/embed/-MLY4l_IR58"
         },
         {
           "title":"Kursusgang 7, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=QUGStEg7BUc"
+          "id":"QUGStEg7BUc",
+          "url":"https://www.youtube.com/watch?v=QUGStEg7BUc",
+          "embedUrl":"https://www.youtube.com/embed/QUGStEg7BUc"
         },
         {
           "title":"Kursusgang 7, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=GQw1nOjgWNk"
+          "id":"GQw1nOjgWNk",
+          "url":"https://www.youtube.com/watch?v=GQw1nOjgWNk",
+          "embedUrl":"https://www.youtube.com/embed/GQw1nOjgWNk"
         },
         {
           "title":"Kursusgang 7, afsnit 8",
-          "url":"https://www.youtube.com/watch?v=7MbhDntOdp8"
+          "id":"7MbhDntOdp8",
+          "url":"https://www.youtube.com/watch?v=7MbhDntOdp8",
+          "embedUrl":"https://www.youtube.com/embed/7MbhDntOdp8"
         },
         {
           "title":"Kursusgang 7, GYSER",
-          "url":"https://www.youtube.com/watch?v=mtqodeyI2ts"
+          "id":"mtqodeyI2ts",
+          "url":"https://www.youtube.com/watch?v=mtqodeyI2ts",
+          "embedUrl":"https://www.youtube.com/embed/mtqodeyI2ts"
         }
       ]
     },
@@ -292,35 +406,51 @@
       "episodes":[
         {
           "title":"Kursusgang 9, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=ECeeZ1vHaeU"
+          "id":"ECeeZ1vHaeU",
+          "url":"https://www.youtube.com/watch?v=ECeeZ1vHaeU",
+          "embedUrl":"https://www.youtube.com/embed/ECeeZ1vHaeU"
         },
         {
           "title":"Kursusgang 9, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=F-QtbDhyS4Y"
+          "id":"F-QtbDhyS4Y",
+          "url":"https://www.youtube.com/watch?v=F-QtbDhyS4Y",
+          "embedUrl":"https://www.youtube.com/embed/F-QtbDhyS4Y"
         },
         {
           "title":"Kursusgang 9, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=pgWLP-mSKtY"
+          "id":"pgWLP-mSKtY",
+          "url":"https://www.youtube.com/watch?v=pgWLP-mSKtY",
+          "embedUrl":"https://www.youtube.com/embed/pgWLP-mSKtY"
         },
         {
           "title":"Kursusgang 9, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=m6jC4zRLH30"
+          "id":"m6jC4zRLH30",
+          "url":"https://www.youtube.com/watch?v=m6jC4zRLH30",
+          "embedUrl":"https://www.youtube.com/embed/m6jC4zRLH30"
         },
         {
           "title":"Kursusgang 9, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=PNsc9FYKsM0"
+          "id":"PNsc9FYKsM0",
+          "url":"https://www.youtube.com/watch?v=PNsc9FYKsM0",
+          "embedUrl":"https://www.youtube.com/embed/PNsc9FYKsM0"
         },
         {
           "title":"Kursusgang 9, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=Y-E4BUXj_yI"
+          "id":"Y-E4BUXj_yI",
+          "url":"https://www.youtube.com/watch?v=Y-E4BUXj_yI",
+          "embedUrl":"https://www.youtube.com/embed/Y-E4BUXj_yI"
         },
         {
           "title":"Kursusgang 9, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=rGA_KYvgVN0"
+          "id":"rGA_KYvgVN0",
+          "url":"https://www.youtube.com/watch?v=rGA_KYvgVN0",
+          "embedUrl":"https://www.youtube.com/embed/rGA_KYvgVN0"
         },
         {
           "title":"Kursusgang 9, GYSER",
-          "url":"https://www.youtube.com/watch?v=oSE5tBiTuO8"
+          "id":"oSE5tBiTuO8",
+          "url":"https://www.youtube.com/watch?v=oSE5tBiTuO8",
+          "embedUrl":"https://www.youtube.com/embed/oSE5tBiTuO8"
         }
       ]
     },
@@ -332,35 +462,51 @@
       "episodes":[
         {
           "title":"Kursusgang 10, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=GI_S2wOKgM0"
+          "id":"GI_S2wOKgM0",
+          "url":"https://www.youtube.com/watch?v=GI_S2wOKgM0",
+          "embedUrl":"https://www.youtube.com/embed/GI_S2wOKgM0"
         },
         {
           "title":"Kursusgang 10, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=6yy8LF2mP-U"
+          "id":"6yy8LF2mP-U",
+          "url":"https://www.youtube.com/watch?v=6yy8LF2mP-U",
+          "embedUrl":"https://www.youtube.com/embed/6yy8LF2mP-U"
         },
         {
           "title":"Kursusgang 10, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=peo5IA8jA7I"
+          "id":"peo5IA8jA7I",
+          "url":"https://www.youtube.com/watch?v=peo5IA8jA7I",
+          "embedUrl":"https://www.youtube.com/embed/peo5IA8jA7I"
         },
         {
           "title":"Kursusgang 10, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=vngAu1qEKvc"
+          "id":"vngAu1qEKvc",
+          "url":"https://www.youtube.com/watch?v=vngAu1qEKvc",
+          "embedUrl":"https://www.youtube.com/embed/vngAu1qEKvc"
         },
         {
           "title":"Kursusgang 10, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=bvYMTdtOJOc"
+          "id":"bvYMTdtOJOc",
+          "url":"https://www.youtube.com/watch?v=bvYMTdtOJOc",
+          "embedUrl":"https://www.youtube.com/embed/bvYMTdtOJOc"
         },
         {
           "title":"Kursusgang 10, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=7gktxyvfPuI"
+          "id":"7gktxyvfPuI",
+          "url":"https://www.youtube.com/watch?v=7gktxyvfPuI",
+          "embedUrl":"https://www.youtube.com/embed/7gktxyvfPuI"
         },
         {
           "title":"Kursusgang 10, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=23PgFxWi0Sg"
+          "id":"23PgFxWi0Sg",
+          "url":"https://www.youtube.com/watch?v=23PgFxWi0Sg",
+          "embedUrl":"https://www.youtube.com/embed/23PgFxWi0Sg"
         },
         {
           "title":"Kursusgang 10, GYSER",
-          "url":"https://www.youtube.com/watch?v=8ElYMnnqWTw"
+          "id":"8ElYMnnqWTw",
+          "url":"https://www.youtube.com/watch?v=8ElYMnnqWTw",
+          "embedUrl":"https://www.youtube.com/embed/8ElYMnnqWTw"
         }
       ]
     },
@@ -372,43 +518,63 @@
       "episodes":[
         {
           "title":"Kursusgang 11, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=cmvYSH6GxQg"
+          "id":"cmvYSH6GxQg",
+          "url":"https://www.youtube.com/watch?v=cmvYSH6GxQg",
+          "embedUrl":"https://www.youtube.com/embed/cmvYSH6GxQg"
         },
         {
           "title":"Kursusgang 11, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=YLWPFGjYdng"
+          "id":"YLWPFGjYdng",
+          "url":"https://www.youtube.com/watch?v=YLWPFGjYdng",
+          "embedUrl":"https://www.youtube.com/embed/YLWPFGjYdng"
         },
         {
           "title":"Kursusgang 11, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=xJ1Nb7Swfpk"
+          "id":"xJ1Nb7Swfpk",
+          "url":"https://www.youtube.com/watch?v=xJ1Nb7Swfpk",
+          "embedUrl":"https://www.youtube.com/embed/xJ1Nb7Swfpk"
         },
         {
           "title":"Kursusgang 11, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=cGysE3hmRNI"
+          "id":"cGysE3hmRNI",
+          "url":"https://www.youtube.com/watch?v=cGysE3hmRNI",
+          "embedUrl":"https://www.youtube.com/embed/cGysE3hmRNI"
         },
         {
           "title":"Kursusgang 11, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=BPmiUaVJ4b4"
+          "id":"BPmiUaVJ4b4",
+          "url":"https://www.youtube.com/watch?v=BPmiUaVJ4b4",
+          "embedUrl":"https://www.youtube.com/embed/BPmiUaVJ4b4"
         },
         {
           "title":"Kursusgang 11, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=nJpzss-fHFE"
+          "id":"nJpzss-fHFE",
+          "url":"https://www.youtube.com/watch?v=nJpzss-fHFE",
+          "embedUrl":"https://www.youtube.com/embed/nJpzss-fHFE"
         },
         {
           "title":"Kursusgang 11, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=onVgvPpr2CE"
+          "id":"onVgvPpr2CE",
+          "url":"https://www.youtube.com/watch?v=onVgvPpr2CE",
+          "embedUrl":"https://www.youtube.com/embed/onVgvPpr2CE"
         },
         {
           "title":"Kursusgang 11, afsnit 8",
-          "url":"https://www.youtube.com/watch?v=VtGqYBYzagE"
+          "id":"VtGqYBYzagE",
+          "url":"https://www.youtube.com/watch?v=VtGqYBYzagE",
+          "embedUrl":"https://www.youtube.com/embed/VtGqYBYzagE"
         },
         {
           "title":"Kursusgang 11, afsnit 9",
-          "url":"https://www.youtube.com/watch?v=-T34Je6BN1k"
+          "id":"-T34Je6BN1k",
+          "url":"https://www.youtube.com/watch?v=-T34Je6BN1k",
+          "embedUrl":"https://www.youtube.com/embed/-T34Je6BN1k"
         },
         {
           "title":"Kursusgang 11, GYSER",
-          "url":"https://www.youtube.com/watch?v=v06gpURCckE"
+          "id":"v06gpURCckE",
+          "url":"https://www.youtube.com/watch?v=v06gpURCckE",
+          "embedUrl":"https://www.youtube.com/embed/v06gpURCckE"
         }
       ]
     },
@@ -420,43 +586,63 @@
       "episodes":[
         {
           "title":"Kursusgang 12, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=95mt-wIfPJ8"
+          "id":"95mt-wIfPJ8",
+          "url":"https://www.youtube.com/watch?v=95mt-wIfPJ8",
+          "embedUrl":"https://www.youtube.com/embed/95mt-wIfPJ8"
         },
         {
           "title":"Kursusgang 12, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=5sHSYO7s4_k"
+          "id":"5sHSYO7s4_k",
+          "url":"https://www.youtube.com/watch?v=5sHSYO7s4_k",
+          "embedUrl":"https://www.youtube.com/embed/5sHSYO7s4_k"
         },
         {
           "title":"Kursusgang 12, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=bhOctsocEHY"
+          "id":"bhOctsocEHY",
+          "url":"https://www.youtube.com/watch?v=bhOctsocEHY",
+          "embedUrl":"https://www.youtube.com/embed/bhOctsocEHY"
         },
         {
           "title":"Kursusgang 12, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=r1NjX2X9naU"
+          "id":"r1NjX2X9naU",
+          "url":"https://www.youtube.com/watch?v=r1NjX2X9naU",
+          "embedUrl":"https://www.youtube.com/embed/r1NjX2X9naU"
         },
         {
           "title":"Kursusgang 12, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=f2n7f_99_lA"
+          "id":"f2n7f_99_lA",
+          "url":"https://www.youtube.com/watch?v=f2n7f_99_lA",
+          "embedUrl":"https://www.youtube.com/embed/f2n7f_99_lA"
         },
         {
           "title":"Kursusgang 12, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=P1dl5HVkm9s"
+          "id":"P1dl5HVkm9s",
+          "url":"https://www.youtube.com/watch?v=P1dl5HVkm9s",
+          "embedUrl":"https://www.youtube.com/embed/P1dl5HVkm9s"
         },
         {
           "title":"Kursusgang 12, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=52c_fywTBiw"
+          "id":"52c_fywTBiw",
+          "url":"https://www.youtube.com/watch?v=52c_fywTBiw",
+          "embedUrl":"https://www.youtube.com/embed/52c_fywTBiw"
         },
         {
           "title":"Kursusgang 12, afsnit 8",
-          "url":"https://www.youtube.com/watch?v=O16PZAvyyaE"
+          "id":"O16PZAvyyaE",
+          "url":"https://www.youtube.com/watch?v=O16PZAvyyaE",
+          "embedUrl":"https://www.youtube.com/embed/O16PZAvyyaE"
         },
         {
           "title":"Kursusgang 12, afsnit 9",
-          "url":"https://www.youtube.com/watch?v=J48CUUoKrHY"
+          "id":"J48CUUoKrHY",
+          "url":"https://www.youtube.com/watch?v=J48CUUoKrHY",
+          "embedUrl":"https://www.youtube.com/embed/J48CUUoKrHY"
         },
         {
           "title":"Kursusgang 12, GYSER",
-          "url":"https://www.youtube.com/watch?v=01J3noHAD-A"
+          "id":"01J3noHAD-A",
+          "url":"https://www.youtube.com/watch?v=01J3noHAD-A",
+          "embedUrl":"https://www.youtube.com/embed/01J3noHAD-A"
         }
       ]
     },
@@ -468,35 +654,51 @@
       "episodes":[
         {
           "title":"Kursusgang 13, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=AjPcU-w5bNc"
+          "id":"AjPcU-w5bNc",
+          "url":"https://www.youtube.com/watch?v=AjPcU-w5bNc",
+          "embedUrl":"https://www.youtube.com/embed/AjPcU-w5bNc"
         },
         {
           "title":"Kursusgang 13, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=0mCUhMr9W2Y"
+          "id":"0mCUhMr9W2Y",
+          "url":"https://www.youtube.com/watch?v=0mCUhMr9W2Y",
+          "embedUrl":"https://www.youtube.com/embed/0mCUhMr9W2Y"
         },
         {
           "title":"Kursusgang 13, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=Xhwrd0Q6X98"
+          "id":"Xhwrd0Q6X98",
+          "url":"https://www.youtube.com/watch?v=Xhwrd0Q6X98",
+          "embedUrl":"https://www.youtube.com/embed/Xhwrd0Q6X98"
         },
         {
           "title":"Kursusgang 13, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=2ldmy-1HstQ"
+          "id":"2ldmy-1HstQ",
+          "url":"https://www.youtube.com/watch?v=2ldmy-1HstQ",
+          "embedUrl":"https://www.youtube.com/embed/2ldmy-1HstQ"
         },
         {
           "title":"Kursusgang 13, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=hzkL1VctihE"
+          "id":"hzkL1VctihE",
+          "url":"https://www.youtube.com/watch?v=hzkL1VctihE",
+          "embedUrl":"https://www.youtube.com/embed/hzkL1VctihE"
         },
         {
           "title":"Kursusgang 13, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=4zCRA-7fbA0"
+          "id":"4zCRA-7fbA0",
+          "url":"https://www.youtube.com/watch?v=4zCRA-7fbA0",
+          "embedUrl":"https://www.youtube.com/embed/4zCRA-7fbA0"
         },
         {
           "title":"Kursusgang 13, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=74CLCQVZlho"
+          "id":"74CLCQVZlho",
+          "url":"https://www.youtube.com/watch?v=74CLCQVZlho",
+          "embedUrl":"https://www.youtube.com/embed/74CLCQVZlho"
         },
         {
           "title":"Kursusgang 13, GYSER",
-          "url":"https://www.youtube.com/watch?v=hFNxBd-Y27U"
+          "id":"hFNxBd-Y27U",
+          "url":"https://www.youtube.com/watch?v=hFNxBd-Y27U",
+          "embedUrl":"https://www.youtube.com/embed/hFNxBd-Y27U"
         }
       ]
     },
@@ -508,35 +710,51 @@
       "episodes":[
         {
           "title":"Kursusgang 14, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=EP_r8SB_exo"
+          "id":"EP_r8SB_exo",
+          "url":"https://www.youtube.com/watch?v=EP_r8SB_exo",
+          "embedUrl":"https://www.youtube.com/embed/EP_r8SB_exo"
         },
         {
           "title":"Kursusgang 14, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=l5Oe9E5B_QY"
+          "id":"l5Oe9E5B_QY",
+          "url":"https://www.youtube.com/watch?v=l5Oe9E5B_QY",
+          "embedUrl":"https://www.youtube.com/embed/l5Oe9E5B_QY"
         },
         {
           "title":"Kursusgang 14, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=_HCBHv_75yE"
+          "id":"_HCBHv_75yE",
+          "url":"https://www.youtube.com/watch?v=_HCBHv_75yE",
+          "embedUrl":"https://www.youtube.com/embed/_HCBHv_75yE"
         },
         {
           "title":"Kursusgang 14, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=huoGhCyScmI"
+          "id":"huoGhCyScmI",
+          "url":"https://www.youtube.com/watch?v=huoGhCyScmI",
+          "embedUrl":"https://www.youtube.com/embed/huoGhCyScmI"
         },
         {
           "title":"Kursusgang 14, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=DJOVhbZho4o"
+          "id":"DJOVhbZho4o",
+          "url":"https://www.youtube.com/watch?v=DJOVhbZho4o",
+          "embedUrl":"https://www.youtube.com/embed/DJOVhbZho4o"
         },
         {
           "title":"Kursusgang 14, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=UgzbacoOxEc"
+          "id":"UgzbacoOxEc",
+          "url":"https://www.youtube.com/watch?v=UgzbacoOxEc",
+          "embedUrl":"https://www.youtube.com/embed/UgzbacoOxEc"
         },
         {
           "title":"Kursusgang 14, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=fAgX6T5OBsI"
+          "id":"fAgX6T5OBsI",
+          "url":"https://www.youtube.com/watch?v=fAgX6T5OBsI",
+          "embedUrl":"https://www.youtube.com/embed/fAgX6T5OBsI"
         },
         {
           "title":"Kursusgang 14, GYSER",
-          "url":"https://www.youtube.com/watch?v=inI3MC4erkA"
+          "id":"inI3MC4erkA",
+          "url":"https://www.youtube.com/watch?v=inI3MC4erkA",
+          "embedUrl":"https://www.youtube.com/embed/inI3MC4erkA"
         }
       ]
     },
@@ -548,43 +766,63 @@
       "episodes":[
         {
           "title":"Kursusgang 15, afsnit 1",
-          "url":"https://www.youtube.com/watch?v=JnhJh4e7ZoY"
+          "id":"JnhJh4e7ZoY",
+          "url":"https://www.youtube.com/watch?v=JnhJh4e7ZoY",
+          "embedUrl":"https://www.youtube.com/embed/JnhJh4e7ZoY"
         },
         {
           "title":"Kursusgang 15, afsnit 2",
-          "url":"https://www.youtube.com/watch?v=2M9JmcgTwZY"
+          "id":"2M9JmcgTwZY",
+          "url":"https://www.youtube.com/watch?v=2M9JmcgTwZY",
+          "embedUrl":"https://www.youtube.com/embed/2M9JmcgTwZY"
         },
         {
           "title":"Kursusgang 15, afsnit 3",
-          "url":"https://www.youtube.com/watch?v=UdUOJNypyos"
+          "id":"UdUOJNypyos",
+          "url":"https://www.youtube.com/watch?v=UdUOJNypyos",
+          "embedUrl":"https://www.youtube.com/embed/UdUOJNypyos"
         },
         {
           "title":"Kursusgang 15, afsnit 4",
-          "url":"https://www.youtube.com/watch?v=zoINCEzcyA8"
+          "id":"zoINCEzcyA8",
+          "url":"https://www.youtube.com/watch?v=zoINCEzcyA8",
+          "embedUrl":"https://www.youtube.com/embed/zoINCEzcyA8"
         },
         {
           "title":"Kursusgang 15, afsnit 5",
-          "url":"https://www.youtube.com/watch?v=YMJWVjRQFRY"
+          "id":"YMJWVjRQFRY",
+          "url":"https://www.youtube.com/watch?v=YMJWVjRQFRY",
+          "embedUrl":"https://www.youtube.com/embed/YMJWVjRQFRY"
         },
         {
           "title":"Kursusgang 15, afsnit 6",
-          "url":"https://www.youtube.com/watch?v=LTnCsezj--o"
+          "id":"LTnCsezj--o",
+          "url":"https://www.youtube.com/watch?v=LTnCsezj--o",
+          "embedUrl":"https://www.youtube.com/embed/LTnCsezj--o"
         },
         {
           "title":"Kursusgang 15, afsnit 7",
-          "url":"https://www.youtube.com/watch?v=qfFhi6EMLZw"
+          "id":"qfFhi6EMLZw",
+          "url":"https://www.youtube.com/watch?v=qfFhi6EMLZw",
+          "embedUrl":"https://www.youtube.com/embed/qfFhi6EMLZw"
         },
         {
           "title":"Kursusgang 15, afsnit 8",
-          "url":"https://www.youtube.com/watch?v=8flGJKwJws4"
+          "id":"8flGJKwJws4",
+          "url":"https://www.youtube.com/watch?v=8flGJKwJws4",
+          "embedUrl":"https://www.youtube.com/embed/8flGJKwJws4"
         },
         {
           "title":"Kursusgang 15, afsnit 9",
-          "url":"https://www.youtube.com/watch?v=VBG5OCvNemo"
+          "id":"VBG5OCvNemo",
+          "url":"https://www.youtube.com/watch?v=VBG5OCvNemo",
+          "embedUrl":"https://www.youtube.com/embed/VBG5OCvNemo"
         },
         {
           "title":"Kursusgang 15, GYSER",
-          "url":"https://www.youtube.com/watch?v=I-MFR9CvJvo"
+          "id":"I-MFR9CvJvo",
+          "url":"https://www.youtube.com/watch?v=I-MFR9CvJvo",
+          "embedUrl":"https://www.youtube.com/embed/I-MFR9CvJvo"
         }
       ]
     }

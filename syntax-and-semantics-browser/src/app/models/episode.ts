@@ -1,4 +1,6 @@
 export class Episode {
   title: string;
-  url: string
+  id: string;
+  url: string;
+  embedUrl: string;
 }
