@@ -3,6 +3,7 @@ import { ChannelService } from './channel.service';
 import { YoutubeChannel } from './models/youtube-channel';
 import { Playlist } from './models/playlist';
 import { Episode } from './models/episode';
+import { DomSanitizer, SafeResourceUrl, SafeUrl } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-root',
@@ -14,7 +15,7 @@ export class AppComponent implements OnInit {
   public playlist: Playlist;
   public episode: Episode;
 
-  constructor(private channelService: ChannelService) {
+  constructor(private channelService: ChannelService, private sanitizer: DomSanitizer) {
   }
 
   ngOnInit() {
