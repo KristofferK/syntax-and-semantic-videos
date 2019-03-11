@@ -1,6 +1,9 @@
 # syntax-and-semantic-videos
 For the syntax and semantics course at the university, we've to watch 100+ youtube videos. The sound on many of these are quite low. Surely a CS boi can gather these links, and play them at 800% volume in VLC.
 
+# Prerequisites
+For VLC to work, you must first add the directory that VLC is installed in to your environment variables.
+
 # Usage
 ```npm install``` followed by ```npm run electron-build-and-run```.
 

@@ -40,7 +40,8 @@ export class AppComponent implements OnInit {
 
     if (isElectron) {
       let childInstance: typeof cp = window['require']('child_process');
-      childInstance.exec(`"D:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe" ${this.episode.url} --gain=64`);
+      //childInstance.exec(`"D:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe" ${this.episode.url} --gain=64`);
+      childInstance.exec(`vlc ${this.episode.url} --gain=64`);
     } else {
       alert('Only allowed in Electron');
     }
