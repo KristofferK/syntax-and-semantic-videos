@@ -348,3 +348,6 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+# Electron build
+syntax-and-semantics-browser/ss-browser-win32-x64/
