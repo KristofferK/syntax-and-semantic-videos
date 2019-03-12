@@ -36,12 +36,24 @@ export class AppComponent implements OnInit {
   }
 
   public openInVLC(episode: Episode) {
+    this.exec(`vlc ${this.episode.url} --gain=64 --rate 1.225`);
+  }
+
+  public openPlaylistInVLC(playlist: Playlist) {
+    let episodes = '';
+    playlist.episodes.forEach(e => {
+      episodes += ' "' + e.url + '"';
+    })
+    console.log(episodes);
+    this.exec(`vlc ${episodes} --gain=64 --rate 1.225`);
+  }
+
+  private exec(command: string) {
     let isElectron: boolean = window && window['process'] && window['process'].type;
 
     if (isElectron) {
       let childInstance: typeof cp = window['require']('child_process');
-      //childInstance.exec(`"D:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe" ${this.episode.url} --gain=64`);
-      childInstance.exec(`vlc ${this.episode.url} --gain=64 --rate 1.225`);
+      childInstance.exec(command);
     } else {
       alert('Only allowed in Electron');
     }
